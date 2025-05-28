@@ -12,7 +12,7 @@ jobs:
     env:
       SFDC_CLIENT_ID: xxxxxxxxxxxxxx
       SFDC_CLIENT_SECRET: xxxxxxxxxxxxxx
-      SFDC_INSTANCE_URL: https://<your-domain>.my.salesforce.com/
+      SFDC_INSTANCE_URL: https://your-domain.my.salesforce.com/
       MCP_LOG_FILE: <your_log_file_path>/server.log"
       SFDC_TOKEN_FILE: <your_sfdc_token_file_path>/.salesforce-tokens.enc"
     strategy:
