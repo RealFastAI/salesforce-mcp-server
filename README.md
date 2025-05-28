@@ -593,4 +593,6 @@ This project is licensed under the BSL License - see the [LICENSE](LICENSE.txt) 
 
 ---
 
-**Built with ❤️ + AI by [realfast](https://realfast.ai) **
+**Made with ❤️ + AI by [realfast](https://realfast.ai)**
+
+Copyright (C) 2025 Ontic Pte. Ltd.
