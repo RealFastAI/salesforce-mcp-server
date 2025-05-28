@@ -579,13 +579,11 @@ See [PROJECT_PLAN.md](PROJECT_PLAN.md) for detailed roadmap.
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the BSL License - see the [LICENSE](LICENSE.txt) file for details.
 
 ## 🆘 Support
 
-- 📖 [Documentation](docs/)
-- 🐛 [Issue Tracker](https://github.com/your-org/salesforce-mcp-server/issues)
-- 💬 [Discussions](https://github.com/your-org/salesforce-mcp-server/discussions)
+- 🐛 [Issue Tracker](https://github.com/RealFastAI/salesforce-mcp-server/issues)
 
 ## 🙏 Acknowledgments
 
@@ -595,4 +593,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Built with ❤️ and TypeScript**
+**Built with ❤️ + AI by [realfast](https://realfast.ai)
