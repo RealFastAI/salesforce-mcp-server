@@ -2,6 +2,7 @@
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.7-blue.svg)](https://www.typescriptlang.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-18%2B-green.svg)](https://nodejs.org/)
+[![CI Status](https://github.com/RealFastAI/salesforce-mcp-server/actions/workflows/npm-grunt.yml/badge.svg)](https://github.com/RealFastAI/salesforce-mcp-server/actions/workflows/npm-grunt.yml)
 
 A Model Context Protocol (MCP) server that provides secure access to Salesforce organizations through OAuth2 authentication, enabling AI models to query and explore Salesforce data through standardized tools and resources.
 
