@@ -593,4 +593,4 @@ This project is licensed under the BSL License - see the [LICENSE](LICENSE.txt) 
 
 ---
 
-**Built with ❤️ + AI by [realfast](https://realfast.ai)
+**Built with ❤️ + AI by [realfast](https://realfast.ai) **
