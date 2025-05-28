@@ -6,7 +6,7 @@
 
 A Model Context Protocol (MCP) server that provides secure access to Salesforce organizations through OAuth2 authentication, enabling AI models to query and explore Salesforce data through standardized tools and resources.
 
-![Salesforce MCP Server]([https://raw.githubusercontent.com/realfastAI/salesforce-mcp-server/main/images/salesforce-mcp-server.png](https://github.com/realfastAI/salesforce-mcp-server/blob/5145eb9b3876a01ed58ac0a4869186779bf4e1a1/images/salesforce-mcp-in-claude-desktop.png))
+![Salesforce MCP Server]([https://raw.githubusercontent.com/realfastAI/salesforce-mcp-server/main/images/salesforce-mcp-server.png](images/salesforce-mcp-in-claude-desktop.png))
 
 **✅ Currently Working**: 12 production-validated tools, OAuth2 authentication, comprehensive Salesforce API coverage, and Claude Desktop integration
 
