@@ -1,4 +1,4 @@
-# Salesforce MCP Server
+# Salesforce MCP Server 0.6.0
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.7-blue.svg)](https://www.typescriptlang.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-18%2B-green.svg)](https://nodejs.org/)
@@ -559,7 +559,7 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 
 ## 📈 Status
 
-**Current Version**: 0.5.0 (Development)
+**Current Version**: 0.6.0 (Development)
 
 **Phase 3**: Core MCP Tools (✅ **COMPLETE**)
 - ✅ OAuth2 PKCE browser authentication flow  
