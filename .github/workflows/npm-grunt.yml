@@ -25,4 +25,4 @@ jobs:
     - name: Build
       run: |
         npm i
-        npm run ci
+        npm run type-check && npm run lint && npm run build && npm run test
