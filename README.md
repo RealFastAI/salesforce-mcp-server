@@ -534,37 +534,6 @@ Test the server with Claude Desktop:
    What fields are available on the Contact object?
    ```
 
-## 💾 Neo4j Backup
-
-This project uses Neo4j as persistent external memory via MCP tools. To backup the knowledge graph:
-
-### Manual Backup Process
-
-1. **Export data via MCP Neo4j tools** (requires Claude with MCP access):
-   ```cypher
-   MATCH p=()-->() RETURN p LIMIT 2500
-   ```
-
-2. **Save JSON result** to timestamped file:
-   ```
-   backups/exo-one/YYYYMMDD_HHMMSS-exo-one-records.json
-   ```
-
-### Backup Advantages
-
-- Complete data preservation (nodes, relationships, properties)
-- Human-readable JSON format  
-- Easy to version control
-- No database downtime required
-- Works with any Neo4j instance
-
-### Alternative Query
-
-For complete graph backup including isolated nodes:
-```cypher
-MATCH (n) OPTIONAL MATCH (n)-[r]->(m) RETURN n, r, m
-```
-
 ## 🤝 Contributing
 
 We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details.
