@@ -1,14 +1,22 @@
-# Salesforce MCP Server 0.6.0
+# realfast.ai Salesforce MCP Server 0.6.0
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.7-blue.svg)](https://www.typescriptlang.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-18%2B-green.svg)](https://nodejs.org/)
 [![CI Status](https://github.com/realfastAI/salesforce-mcp-server/actions/workflows/npm-grunt.yml/badge.svg)](https://github.com/realfastAI/salesforce-mcp-server/actions/workflows/npm-grunt.yml)
 
-A Model Context Protocol (MCP) server that provides secure access to Salesforce organizations through OAuth2 authentication, enabling AI models to query and explore Salesforce data through standardized tools and resources.
+Use [Claude Desktop](https://claude.ai/download) with this server to interactively explore, analyse and manage your Salesforce org!
 
 ![Salesforce MCP Server](images/salesforce-mcp-in-claude-desktop.png)
 
+This is Model Context Protocol (MCP) server that provides secure access to Salesforce organizations through OAuth2 authentication, enabling AI models to query and explore Salesforce data through standardized tools and resources.
+
 **✅ Currently Working**: 12 production-validated tools, OAuth2 authentication, comprehensive Salesforce API coverage, and Claude Desktop integration
+
+## About Us
+
+[realfast.ai](https://realfast.ai) is an AI-native Salesforce implementation partner that combines deep data and AI expertise with Salesforce expertise. 
+
+We use AI to ship better _and_ faster. We help you do the same!
 
 ## 🚀 Features
 
